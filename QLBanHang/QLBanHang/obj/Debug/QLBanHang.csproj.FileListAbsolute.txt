@@ -1,0 +1,9 @@
+E:\svn\QLBanHang\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+E:\svn\QLBanHang\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+E:\svn\QLBanHang\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+E:\svn\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+E:\svn\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+E:\svn\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.Cache
+E:\svn\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+E:\svn\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\svn\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Form1.resources

@@ -1,0 +1,5 @@
+E:\svn\QLBanHang\QLBanHang\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\svn\QLBanHang\QLBanHang\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\svn\QLBanHang\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\svn\QLBanHang\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\svn\QLBanHang\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
