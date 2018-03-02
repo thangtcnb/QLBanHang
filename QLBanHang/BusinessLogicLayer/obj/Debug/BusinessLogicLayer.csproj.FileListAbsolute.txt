@@ -3,3 +3,12 @@ E:\svn\QLBanHang\QLBanHang\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
 E:\svn\QLBanHang\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
 E:\svn\QLBanHang\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 E:\svn\QLBanHang\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\nt\Desktop\QLBanHang\QLBanHang\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\nt\Desktop\QLBanHang\QLBanHang\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\nt\Desktop\QLBanHang\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\nt\Desktop\QLBanHang\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\nt\Desktop\QLBanHang\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\nt\Desktop\QLBanHang\QLBanHang\BusinessLogicLayer\bin\Debug\ValueObject.dll
+C:\Users\nt\Desktop\QLBanHang\QLBanHang\BusinessLogicLayer\bin\Debug\ValueObject.pdb
+C:\Users\nt\Desktop\QLBanHang\QLBanHang\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\nt\Desktop\QLBanHang\QLBanHang\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb

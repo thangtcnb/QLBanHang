@@ -17,7 +17,7 @@ namespace DataAccessLayer
         public DataTable GetData()
         {
             DataTable dt = new DataTable();
-            dt = db.GetData("sp_LoaiHang_SelectAll", null);
+            dt = db.GetData("sp_LoaiHang_SelectAll", null);//null là tham số truyền vào
             return dt;
         }
         /*
@@ -26,5 +26,13 @@ namespace DataAccessLayer
             return db.GetData("sp_LoaiHang_SelectAll", null);
          }
          * */
+         public DataTable GetDaTaByID(string ID)
+        {
+            SqlParameter[] para =
+            {
+                new SqlParameter("IDLoaiHang", ID)
+            };
+            return db.GetData("sp_LoaiHang_Select_ByID", para);
+        }
     }
 }
