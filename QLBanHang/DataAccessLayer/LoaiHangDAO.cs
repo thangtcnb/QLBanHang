@@ -7,7 +7,7 @@ using ValueObject;
 
 namespace DataAccessLayer
 {
-    internal class LoaiHangDAO
+    public class LoaiHangDAO
     {
         private dbConnect db = new dbConnect();
 
@@ -54,6 +54,15 @@ namespace DataAccessLayer
                 new SqlParameter("MoTa", obj.Mota)
              };
             return db.ExcuteSQL("sp_LoaiHang_Insert", para);
+        }
+
+        public int Delete(string ID)
+        {
+            SqlParameter[] para =
+            {
+                new SqlParameter("IDLoaiHang", ID)
+            };
+            return db.ExcuteSQL("sp_LoaiHang_Delete", para);
         }
     }
 }
